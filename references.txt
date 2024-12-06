@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/6766225/tripledes-key-sizes-net-vs-wikipedia
+https://www.pycryptodome.org/en/latest/src/cipher/src/src/src/introduction.html
+https://pycryptodome.readthedocs.io/en/latest/src/cipher/classic.html
+https://stackoverflow.com/questions/52787147/using-ctr-mode-in-des-algorithm-in-python
+https://github.com/Legrandin/pycryptodome/issues/353
+https://stackoverflow.com/questions/54335039/pycryptodome-aes-ocb-encryption-nonce-how-to-add-nonce
+https://pypi.org/project/cryptography/
