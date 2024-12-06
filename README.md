@@ -19,3 +19,13 @@ Plot this on graph(s). For AES, you may want to have different graphs, since a s
 It is likely the library one will be faster. In that case, think about and analyze what are they doing, i.e., what optimizations are they implementing that makes their code faster? This can be your own opinion, but it needs to be justified, and should be soundly reasoned through.
 
 Authors: Horacio Gonzalez and Joseph Tomalewski
+
+---
+
+# Libraries
+Install PyCryptodome library to be able to run the code:
+```bash
+pip install pycryptodome
+```
+> **_NOTE:_**  This command will try to install pycryptodome using the pip version of the python version that is set as default in your computer. Make sure you are running and installing on the same version.
+> The Python version used for this project was 3.12.0, but any Python 3.X.X version should also work.
