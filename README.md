@@ -168,6 +168,30 @@ Running 3DES tests...
 3DES | Mode: CBC | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 292.5874s | Decrypt Time: 287.0507s
 3DES | Mode: OFB | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 295.1751s | Decrypt Time: 310.6609s
 3DES | Mode: CTR | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 345.6371s | Decrypt Time: 332.1454s
+Running AES tests...
+Testing AES with a 128-bit key...
+AES-128 | Mode: CBC | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1399s | Decrypt Time: 0.1404s
+AES-128 | Mode: OFB | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1460s | Decrypt Time: 0.1459s
+AES-128 | Mode: CTR | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1508s | Decrypt Time: 0.1510s
+AES-128 | Mode: CBC | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.4197s | Decrypt Time: 1.4203s
+AES-128 | Mode: OFB | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.4703s | Decrypt Time: 1.4562s
+AES-128 | Mode: CTR | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.5236s | Decrypt Time: 1.5379s
+AES-128 | Mode: CBC | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 14.3338s | Decrypt Time: 14.5371s
+AES-128 | Mode: OFB | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 14.6918s | Decrypt Time: 14.7569s
+AES-128 | Mode: CTR | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 15.7675s | Decrypt Time: 15.8424s
+AES-128 | Mode: CBC | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 72.3653s | Decrypt Time: 71.8957s
+AES-128 | Mode: OFB | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 74.6293s | Decrypt Time: 74.7186s
+AES-128 | Mode: CTR | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 77.2300s | Decrypt Time: 77.3159s
+AES-128 | Mode: CBC | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 148.2683s | Decrypt Time: 148.5283s
+AES-128 | Mode: OFB | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 151.8386s | Decrypt Time: 152.7266s
+AES-128 | Mode: CTR | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 159.3191s | Decrypt Time: 159.1953s
+Testing AES with a 192-bit key...
+
+
+
+
+
+
 All tests completed.
 
 ```
