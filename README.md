@@ -188,10 +188,21 @@ AES-128 | Mode: CTR | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time
 Testing AES with a 192-bit key...
 
 
-
-
-
-
+Running Blowfish tests...
+Blowfish | Mode: CBC | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1858s | Decrypt Time: 0.1762s
+Blowfish | Mode: OFB | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1830s | Decrypt Time: 0.1812s
+Blowfish | Mode: CTR | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1872s | Decrypt Time: 0.1858s
+Blowfish | Mode: CBC | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.8403s | Decrypt Time: 1.8298s
+Blowfish | Mode: OFB | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.8627s | Decrypt Time: 1.8747s
+Blowfish | Mode: CTR | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.9395s | Decrypt Time: 1.9316s
+Blowfish | Mode: CBC | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 19.5074s | Decrypt Time: 18.9337s
+Blowfish | Mode: OFB | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 19.3413s | Decrypt Time: 19.2504s
+Blowfish | Mode: CTR | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 19.7949s | Decrypt Time: 19.7098s
+Blowfish | Mode: CBC | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 104.0774s | Decrypt Time: 103.1171s
+Blowfish | Mode: OFB | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 105.0120s | Decrypt Time: 104.9413s
+Blowfish | Mode: CTR | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 112.4204s | Decrypt Time: 107.4609s
+Blowfish | Mode: CBC | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 321.5945s | Decrypt Time: 286.7886s
+Blowfish | Mode: OFB | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 320.0967s | Decrypt Time: 294.4036s
+Blowfish | Mode: CTR | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 328.0532s | Decrypt Time: 285.6150s
 All tests completed.
-
 ```
