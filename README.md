@@ -186,6 +186,22 @@ AES-128 | Mode: CBC | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time
 AES-128 | Mode: OFB | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 151.8386s | Decrypt Time: 152.7266s
 AES-128 | Mode: CTR | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 159.3191s | Decrypt Time: 159.1953s
 Testing AES with a 192-bit key...
+AES-192 | Mode: CBC | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.1620s | Decrypt Time: 0.1631s
+AES-192 | Mode: OFB | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.1456s | Decrypt Time: 0.1491s
+AES-192 | Mode: CTR | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.1523s | Decrypt Time: 0.1503s
+AES-192 | Mode: CBC | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 1.4319s | Decrypt Time: 1.4425s
+AES-192 | Mode: OFB | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 1.4635s | Decrypt Time: 1.4600s
+AES-192 | Mode: CTR | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 1.5362s | Decrypt Time: 1.5433s
+AES-192 | Mode: CBC | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 14.4123s | Decrypt Time: 14.4911s
+AES-192 | Mode: OFB | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 14.8052s | Decrypt Time: 15.5792s
+AES-192 | Mode: CTR | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 15.8913s | Decrypt Time: 15.4647s
+AES-192 | Mode: CBC | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 76.1431s | Decrypt Time: 80.4811s
+AES-192 | Mode: OFB | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 80.7949s | Decrypt Time: 76.8137s
+AES-192 | Mode: CTR | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 79.1750s | Decrypt Time: 80.9743s
+AES-192 | Mode: CBC | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 152.4085s | Decrypt Time: 152.3069s
+AES-192 | Mode: OFB | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 156.6689s | Decrypt Time: 155.1853s
+AES-192 | Mode: CTR | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 164.4439s | Decrypt Time: 163.7496s
+Testing AES with a 256-bit key...
 
 
 Running Blowfish tests...
