@@ -46,3 +46,4 @@ def run_3des_tests(sample_plaintexts):
                 f"3DES | Mode: {mode_name} | Plaintext Size: {plaintext_size}MB | Key Size: {key_size * 8} bits | "
                 f"Encrypt Time: {encrypt_time:.4f}s | Decrypt Time: {decrypt_time:.4f}s"
             )
+
