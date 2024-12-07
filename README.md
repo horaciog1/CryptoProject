@@ -168,6 +168,57 @@ Running 3DES tests...
 3DES | Mode: CBC | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 292.5874s | Decrypt Time: 287.0507s
 3DES | Mode: OFB | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 295.1751s | Decrypt Time: 310.6609s
 3DES | Mode: CTR | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 345.6371s | Decrypt Time: 332.1454s
-All tests completed.
+Running AES tests...
+Testing AES with a 128-bit key...
+AES-128 | Mode: CBC | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1399s | Decrypt Time: 0.1404s
+AES-128 | Mode: OFB | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1460s | Decrypt Time: 0.1459s
+AES-128 | Mode: CTR | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1508s | Decrypt Time: 0.1510s
+AES-128 | Mode: CBC | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.4197s | Decrypt Time: 1.4203s
+AES-128 | Mode: OFB | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.4703s | Decrypt Time: 1.4562s
+AES-128 | Mode: CTR | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.5236s | Decrypt Time: 1.5379s
+AES-128 | Mode: CBC | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 14.3338s | Decrypt Time: 14.5371s
+AES-128 | Mode: OFB | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 14.6918s | Decrypt Time: 14.7569s
+AES-128 | Mode: CTR | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 15.7675s | Decrypt Time: 15.8424s
+AES-128 | Mode: CBC | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 72.3653s | Decrypt Time: 71.8957s
+AES-128 | Mode: OFB | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 74.6293s | Decrypt Time: 74.7186s
+AES-128 | Mode: CTR | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 77.2300s | Decrypt Time: 77.3159s
+AES-128 | Mode: CBC | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 148.2683s | Decrypt Time: 148.5283s
+AES-128 | Mode: OFB | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 151.8386s | Decrypt Time: 152.7266s
+AES-128 | Mode: CTR | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 159.3191s | Decrypt Time: 159.1953s
+Testing AES with a 192-bit key...
+AES-192 | Mode: CBC | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.1620s | Decrypt Time: 0.1631s
+AES-192 | Mode: OFB | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.1456s | Decrypt Time: 0.1491s
+AES-192 | Mode: CTR | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.1523s | Decrypt Time: 0.1503s
+AES-192 | Mode: CBC | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 1.4319s | Decrypt Time: 1.4425s
+AES-192 | Mode: OFB | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 1.4635s | Decrypt Time: 1.4600s
+AES-192 | Mode: CTR | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 1.5362s | Decrypt Time: 1.5433s
+AES-192 | Mode: CBC | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 14.4123s | Decrypt Time: 14.4911s
+AES-192 | Mode: OFB | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 14.8052s | Decrypt Time: 15.5792s
+AES-192 | Mode: CTR | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 15.8913s | Decrypt Time: 15.4647s
+AES-192 | Mode: CBC | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 76.1431s | Decrypt Time: 80.4811s
+AES-192 | Mode: OFB | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 80.7949s | Decrypt Time: 76.8137s
+AES-192 | Mode: CTR | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 79.1750s | Decrypt Time: 80.9743s
+AES-192 | Mode: CBC | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 152.4085s | Decrypt Time: 152.3069s
+AES-192 | Mode: OFB | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 156.6689s | Decrypt Time: 155.1853s
+AES-192 | Mode: CTR | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 164.4439s | Decrypt Time: 163.7496s
+Testing AES with a 256-bit key...
 
+
+Running Blowfish tests...
+Blowfish | Mode: CBC | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1858s | Decrypt Time: 0.1762s
+Blowfish | Mode: OFB | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1830s | Decrypt Time: 0.1812s
+Blowfish | Mode: CTR | Plaintext Size: 1MB | Key Size: 128 bits | Encrypt Time: 0.1872s | Decrypt Time: 0.1858s
+Blowfish | Mode: CBC | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.8403s | Decrypt Time: 1.8298s
+Blowfish | Mode: OFB | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.8627s | Decrypt Time: 1.8747s
+Blowfish | Mode: CTR | Plaintext Size: 10MB | Key Size: 128 bits | Encrypt Time: 1.9395s | Decrypt Time: 1.9316s
+Blowfish | Mode: CBC | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 19.5074s | Decrypt Time: 18.9337s
+Blowfish | Mode: OFB | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 19.3413s | Decrypt Time: 19.2504s
+Blowfish | Mode: CTR | Plaintext Size: 100MB | Key Size: 128 bits | Encrypt Time: 19.7949s | Decrypt Time: 19.7098s
+Blowfish | Mode: CBC | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 104.0774s | Decrypt Time: 103.1171s
+Blowfish | Mode: OFB | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 105.0120s | Decrypt Time: 104.9413s
+Blowfish | Mode: CTR | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time: 112.4204s | Decrypt Time: 107.4609s
+Blowfish | Mode: CBC | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 321.5945s | Decrypt Time: 286.7886s
+Blowfish | Mode: OFB | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 320.0967s | Decrypt Time: 294.4036s
+Blowfish | Mode: CTR | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 328.0532s | Decrypt Time: 285.6150s
+All tests completed.
 ```
