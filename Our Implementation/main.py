@@ -26,11 +26,11 @@ if __name__ == "__main__":
     # print("Running DES tests...")
     # run_des_tests(sample_plaintexts)
 
-    print("Running 3DES tests...")
-    run_3des_tests(sample_plaintexts)
+    # print("Running 3DES tests...")
+    # run_3des_tests(sample_plaintexts)
 
-    # print("Running AES tests...")
-    # run_aes_tests(sample_plaintexts)
+    print("Running AES tests...")
+    run_aes_tests(sample_plaintexts)
 
     # print("Running Blowfish tests...")
     # run_blowfish_tests(sample_plaintexts)

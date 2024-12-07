@@ -152,6 +152,22 @@ DES | Mode: CTR | Plaintext Size: 500MB | Key Size: 64 bits | Encrypt Time: 140.
 DES | Mode: CBC | Plaintext Size: 1024MB | Key Size: 64 bits | Encrypt Time: 278.8124s | Decrypt Time: 287.6125s
 DES | Mode: OFB | Plaintext Size: 1024MB | Key Size: 64 bits | Encrypt Time: 305.9997s | Decrypt Time: 287.2194s
 DES | Mode: CTR | Plaintext Size: 1024MB | Key Size: 64 bits | Encrypt Time: 287.1949s | Decrypt Time: 289.6033s
-
+Running 3DES tests...
+3DES | Mode: CBC | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.2750s | Decrypt Time: 0.2731s
+3DES | Mode: OFB | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.2799s | Decrypt Time: 0.2806s
+3DES | Mode: CTR | Plaintext Size: 1MB | Key Size: 192 bits | Encrypt Time: 0.2847s | Decrypt Time: 0.2848s
+3DES | Mode: CBC | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 2.7225s | Decrypt Time: 2.7883s
+3DES | Mode: OFB | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 3.1252s | Decrypt Time: 2.9151s
+3DES | Mode: CTR | Plaintext Size: 10MB | Key Size: 192 bits | Encrypt Time: 2.9835s | Decrypt Time: 2.9908s
+3DES | Mode: CBC | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 29.0715s | Decrypt Time: 28.4458s
+3DES | Mode: OFB | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 29.6771s | Decrypt Time: 31.0525s
+3DES | Mode: CTR | Plaintext Size: 100MB | Key Size: 192 bits | Encrypt Time: 39.2389s | Decrypt Time: 35.9553s
+3DES | Mode: CBC | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 142.9565s | Decrypt Time: 136.6240s
+3DES | Mode: OFB | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 150.0791s | Decrypt Time: 174.2878s
+3DES | Mode: CTR | Plaintext Size: 500MB | Key Size: 192 bits | Encrypt Time: 145.6136s | Decrypt Time: 146.6694s
+3DES | Mode: CBC | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 292.5874s | Decrypt Time: 287.0507s
+3DES | Mode: OFB | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 295.1751s | Decrypt Time: 310.6609s
+3DES | Mode: CTR | Plaintext Size: 1024MB | Key Size: 192 bits | Encrypt Time: 345.6371s | Decrypt Time: 332.1454s
+All tests completed.
 
 ```
