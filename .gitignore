@@ -1,2 +1,6 @@
 PyCryptodome Implementation/__pycache__/*
 PyCryptodome Implementation/sample_plaintexts/*
+Our Implementation/__pycache__/*
+Our Implementation/algorithms/__pycache__/*
+Our Implementation/modes/__pycache__/*
+Our Implementation/sample_plaintexts/*
