@@ -131,3 +131,27 @@ Blowfish | Mode: CTR | Plaintext Size: 500MB | Key Size: 128 bits | Encrypt Time
 Blowfish | Mode: CTR | Plaintext Size: 1024MB | Key Size: 128 bits | Encrypt Time: 11.6013s | Decrypt Time: 10.9945s
 All tests completed.
 ```
+---
+
+# Performance of Our Implementation
+
+```text
+Running DES tests...
+DES | Mode: CBC | Plaintext Size: 1MB | Key Size: 64 bits | Encrypt Time: 0.2485s | Decrypt Time: 0.2510s
+DES | Mode: OFB | Plaintext Size: 1MB | Key Size: 64 bits | Encrypt Time: 0.2546s | Decrypt Time: 0.2559s
+DES | Mode: CTR | Plaintext Size: 1MB | Key Size: 64 bits | Encrypt Time: 0.2680s | Decrypt Time: 0.2640s
+DES | Mode: CBC | Plaintext Size: 10MB | Key Size: 64 bits | Encrypt Time: 2.4989s | Decrypt Time: 2.4856s
+DES | Mode: OFB | Plaintext Size: 10MB | Key Size: 64 bits | Encrypt Time: 2.5480s | Decrypt Time: 2.5492s
+DES | Mode: CTR | Plaintext Size: 10MB | Key Size: 64 bits | Encrypt Time: 2.6674s | Decrypt Time: 2.6591s
+DES | Mode: CBC | Plaintext Size: 100MB | Key Size: 64 bits | Encrypt Time: 25.3852s | Decrypt Time: 25.2066s
+DES | Mode: OFB | Plaintext Size: 100MB | Key Size: 64 bits | Encrypt Time: 26.0356s | Decrypt Time: 26.0275s
+DES | Mode: CTR | Plaintext Size: 100MB | Key Size: 64 bits | Encrypt Time: 26.8013s | Decrypt Time: 26.6109s
+DES | Mode: CBC | Plaintext Size: 500MB | Key Size: 64 bits | Encrypt Time: 125.2140s | Decrypt Time: 125.4859s
+DES | Mode: OFB | Plaintext Size: 500MB | Key Size: 64 bits | Encrypt Time: 128.7590s | Decrypt Time: 127.9677s
+DES | Mode: CTR | Plaintext Size: 500MB | Key Size: 64 bits | Encrypt Time: 140.7880s | Decrypt Time: 135.2792s
+DES | Mode: CBC | Plaintext Size: 1024MB | Key Size: 64 bits | Encrypt Time: 278.8124s | Decrypt Time: 287.6125s
+DES | Mode: OFB | Plaintext Size: 1024MB | Key Size: 64 bits | Encrypt Time: 305.9997s | Decrypt Time: 287.2194s
+DES | Mode: CTR | Plaintext Size: 1024MB | Key Size: 64 bits | Encrypt Time: 287.1949s | Decrypt Time: 289.6033s
+
+
+```
